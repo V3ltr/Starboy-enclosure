@@ -7,8 +7,8 @@
 
 This is the enclosure for the Starboy, as promised its themed around the ocean. 
 It has a fish, octopus and some seaweed/sponges the back is without anything because it would annoy some people that it doesn't lay flat (me included) and it also has two holes to put thru for example some string/rope and attach it to a carabiner and have that on your keys or bag. I will be printing this in black and than painting on the colors, but a multicolored printer would do swell on this.I have made this to add character to my bag, i have a plain dark blue bag and it doesn't have much character to it, so for that reason it will literally have a personality.
-PLA 1KG white,11.50$,Alza,https://www.alza.cz/alzament-pla-basic-1kg-white-d12717999.htm
-Blue Spray paint,4.39$,Alza,https://www.alza.cz/hobby/biodur-akrylovy-email-ve-spreji-ultramarinova-modra-tmava-400-ml-ral-5002-d9837120.htm
-Acrylic paints,6.42$,Alza,https://www.alza.cz/akrylove-barvy-24-ks-12-ml-d7621093.htm
-Primer,4.39$,Alza,https://www.alza.cz/hobby/biodur-primer-ve-spreji-400-ml-d9837110.htm
-Superglue,3.01$,Alza,https://www.alza.cz/hobby/loctite-super-bond-gel-2g-d5000709.htm
+PLA 1KG white,11.50$,1x,Alza,https://www.alza.cz/alzament-pla-basic-1kg-white-d12717999.htm,
+Blue Spray paint,4.39$,1x,Alza,https://www.alza.cz/hobby/biodur-akrylovy-email-ve-spreji-ultramarinova-modra-tmava-400-ml-ral-5002-d9837120.htm,
+Acrylic paints,6.42$,1x,Alza,https://www.alza.cz/akrylove-barvy-24-ks-12-ml-d7621093.htm,
+Primer,4.39$,1x,Alza,https://www.alza.cz/hobby/biodur-primer-ve-spreji-400-ml-d9837110.htm,
+Superglue,3.01$,1x,Alza,https://www.alza.cz/hobby/loctite-super-bond-gel-2g-d5000709.htm,
