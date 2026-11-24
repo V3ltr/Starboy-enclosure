@@ -7,3 +7,4 @@
 This is the enclosure for the Starboy, as promised its themed around the ocean. 
 It has a fish, octopus and some seaweed/sponges the back is without anything because it would annoy some people that it doesn't lay flat (me included) and it also has two holes to put thru for example some string/rope and attach it to a carabiner and have that on your keys or bag. I will be printing this in black and than painting on the colors, but a multicolored printer would do swell on this.I have made this to add character to my bag, i have a plain dark blue bag and it doesn't have much character to it, so for that reason it will literally have a personality.
 PLA 1KG white,11.50$,1x,Alza,https://www.alza.cz/alzament-pla-basic-1kg-white-d12717999.htm,
+Goldscrew PZ 4mm, 4,71$,1x,ScrewFIX,https://www.screwfix.com/p/goldscrew-pz-double-countersunk-thread-cutting-multipurpose-screws-4mm-x-40mm-200-pack/16159,
